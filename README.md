@@ -1,6 +1,6 @@
 # helloworld
 ##skskllla  
 ###kkkkddddpppp
-*ui
-*yh
-*uj
+* ui
+* yh
+* uj
